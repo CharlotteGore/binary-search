@@ -10,10 +10,18 @@ Browserify/npm
     $ npm install --save gm-binary-search
 ```
 
+```js
+  var search = require('gm-binary-search');
+```
+
 Component
 
 ```sh
     $ component install charlottegore/binary-search
+```
+
+```js
+  var search = require('binary-seach');
 ```
 
 ## API
