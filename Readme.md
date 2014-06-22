@@ -4,7 +4,17 @@
 
 ## Installation
 
+Browserify/npm
+
+```sh
+    $ npm install --save gm-binary-search
+```
+
+Component
+
+```sh
     $ component install charlottegore/binary-search
+```
 
 ## API
 
