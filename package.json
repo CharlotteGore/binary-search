@@ -1,0 +1,16 @@
+{
+  "name"          : "gm-binary-search",
+  "description"   : "Simple binary search alorithm for arrays",
+  "url"           : "http://charlottegore.github.io",
+  "keywords"      : ["binary search", "events", "client", "browser"],
+  "author"        : "Charlotte Gore <charlotte@greenmesa.co.uk>",
+  "dependencies"  : {
+  },
+  "main"          : "index.js",
+  "version"       : "0.0.2",
+  "license"       : "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/charlottegore/binary-search.git"
+  }
+}
